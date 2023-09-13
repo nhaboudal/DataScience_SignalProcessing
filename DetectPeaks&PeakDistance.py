@@ -55,6 +55,9 @@ fig.update_layout(title='Plot of Each Signal',
 # Show the plot
 fig.show()
 
+
+
+
 #4. Detect Peaks and Peak Distances 
 import numpy as np
 import plotly.graph_objects as go
