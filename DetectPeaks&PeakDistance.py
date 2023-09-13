@@ -30,6 +30,8 @@ normalized_signal = [[(float(val) - min_value) / (max_value - min_value) for val
 #print(normalized_signal)
 
 
+
+
 #3. Visualize Signals
 import plotly.graph_objects as go
 
@@ -78,7 +80,6 @@ for index, signalsample in enumerate(normalized_signal):
 
 
     
-
 
 #5.Visualzie Peaks and Peak Distances 
 import plotly.graph_objects as go
