@@ -27,9 +27,13 @@ Annotates the plot with the distances between consecutive peaks.
 Dependencies:
 
 csv: For reading the CSV file.
+
 numpy: For numerical operations.
+
 plotly.graph_objects: For visualization.
+
 scipy.signal: For peak detection.
+
 
 Usage:
 
